@@ -46,7 +46,7 @@ img.zweefLinks {
 }
 
 a {
-    color: rgb(247, 113, 135);
+    color: rgb(250, 86, 113);
     text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ a:hover {
 nav ul {
     list-style-type: none;
     margin: auto;
-    padding: 0;
+    padding: 5px;
     background-color: pink;
     overflow: hidden;
 }
