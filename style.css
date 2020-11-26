@@ -5,7 +5,7 @@ html, body {
     padding: 0;
     background-color: lightpink;  
     
-    color: black;
+    color: red;
     font: Verdana, Arial, Sans-Serif
 }
 
@@ -27,21 +27,7 @@ header {
     text-align: center;
 }
 
-
-footer {
-    text-align: center;
-    padding-bottom: 10px;
-}
-
-
 /* specifieke stijlen */
-
-article {
-    display:block;
-    width: 100%;
-    border: solid 2px white;
-    overflow:visible;
-}
 
 img.zweefLinks {
     float: left;
@@ -51,6 +37,17 @@ img.zweefLinks {
 img.zweefRechts {
     float: right;
     margin-left: 15px;
+    position: relative;
+    bottom: 210px;
+}
+
+.border_home {
+    width: 100%;
+    border: 2px solid transparent;
+}
+
+.maximalebreedte {
+    max-width: 435px;
 }
 
 .smalltext {
