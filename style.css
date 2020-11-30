@@ -41,6 +41,21 @@ img.zweefRechts {
     bottom: 210px;
 }
 
+img.zweefBoven {
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.text_categories {
+    float: bottom;
+}
+
+.text_categories.right {
+   float: left;
+   margin; 400px;
+}
+
 .border_home {
     width: 100%;
     border: 2px solid transparent;
