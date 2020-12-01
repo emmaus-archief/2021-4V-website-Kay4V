@@ -47,6 +47,24 @@ img.zweefBoven {
     margin-right: 15px;
 }
 
+img.zweefLinksBoven {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+img.zweefRechtsMidden {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+img.zweefLinksOnder {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
 .text_categories {
     float: bottom;
 }
