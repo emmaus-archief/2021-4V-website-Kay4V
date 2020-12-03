@@ -19,6 +19,7 @@ main {
 
 article {
     text-align: justify;
+    clear: both;
 }
 
 
@@ -28,6 +29,11 @@ header {
 }
 
 /* specifieke stijlen */
+
+.imgbig3 {
+    width: 200px;
+    height: 325px;
+}
 
 img.zweefLinks {
     float: left;
@@ -63,6 +69,12 @@ img.zweefLinksOnder {
     float: left;
     margin-right: 15px;
     margin-bottom: 15px;
+}
+
+img.zweefMiddenBoven {
+    float: top;
+    width: 100%;
+    height: 150px;
 }
 
 .text_categories {
